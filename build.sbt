@@ -34,6 +34,3 @@ copyJsTask in sjsJvm := {
 }
 
 scalaJSStage in Global := FastOptStage
-
-scalaVersion := "2.11.1"
-
